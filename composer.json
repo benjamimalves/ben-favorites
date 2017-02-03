@@ -1,0 +1,26 @@
+
+{
+    "name": "ben/favorites",
+    "description": "",
+    "authors": [
+        {
+            "name": "Benjamim Alves",
+            "email": "info@benjamimalves.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ben\\WP\\Favorites\\": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "v1.0.6"
+    }
+}
