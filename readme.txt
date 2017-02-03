@@ -1,4 +1,4 @@
-=== Favorites ===
+** Ben Favorites **
 Contributors: benjamim_alves
 Tags: favorites, bookmark
 Tested up to: 4.0
@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Favorites for any post type. Easily add favoriting
 
-== Description ==
+** Description **
 
 This plugin can provide an way to save favorites.
 
