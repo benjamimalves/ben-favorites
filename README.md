@@ -1,18 +1,16 @@
-# ben-favorites
-WP Plugin for adding/removing post favorites to loged in users
-
-** Favorites **
+**Ben Favorites**
 Contributors: benjamim_alves
 Tags: favorites, bookmark
 Tested up to: 4.0
 Stable tag: 1.0.0
+
 
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Favorites for any post type. Easily add favoriting
 
-** Description **
+**Description**
 
 This plugin can provide an way to save favorites.
 
@@ -27,7 +25,7 @@ This plugin can provide an way to save favorites.
 **Important: Favorites requires WordPress version 4.0 or higher, and PHP version 5.4 or higher.** - Used the new PHP namespaces
 
 
-== Installation ==
+**Installation**
 
 1. Upload the ben-favorites plugin directory to the wp-content/plugins/ directory
 2. Activate the plugin through the Plugins menu in WordPress
